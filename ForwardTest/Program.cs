@@ -32,7 +32,7 @@ namespace TestForward
             }
             try
             {
-                double time = engine.Start(external_T, 1000);
+                double time = engine.Start(external_T, 10000);
                 Console.WriteLine($"Время перегрева - {time} секунд");
             }
             catch (Exception e)

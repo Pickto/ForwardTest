@@ -18,6 +18,7 @@ namespace TestForward
             get;
             set;
         }
+        public double Start(double external_T, double timeLimit, double deltaTime = 0.001);
     }
     class InternalCombustionEngineConfig
     {
