@@ -1,0 +1,13 @@
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.exe
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.deps.json
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.runtimeconfig.json
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.runtimeconfig.dev.json
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.dll
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.pdb
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.csprojAssemblyReference.cache
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.AssemblyInfoInputs.cache
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.AssemblyInfo.cs
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.csproj.CoreCompileInputs.cache
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.dll
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.pdb
+C:\Users\Pickto\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.genruntimeconfig.cache
